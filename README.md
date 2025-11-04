@@ -1,13 +1,10 @@
 # Distributed Image Normalizer
 
-A project for COMP 7172 demonstrating a Distributed Image Normalizer built in Python It uses a master-worker architecture to parallelize image preprocessing, allowing for benchmarks against traditional, centralized methods.
+A project demonstrating a Distributed Image Normalizer built in Python It uses a master-worker architecture to parallelize image preprocessing, allowing for benchmarks against traditional, centralized methods.
 
 ## Architecture
  This system is built using a **Master-Worker** pattern
 
-
-
-[Image of Master-Worker architecture diagram]
 
 
 1.  **Master Node**: The master is responsible for:
